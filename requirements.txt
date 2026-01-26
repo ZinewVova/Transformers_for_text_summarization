@@ -1,0 +1,70 @@
+# Data manipulation and analysis
+numpy
+pandas
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Progress bars
+tqdm
+
+# Text processing - Russian language support
+razdel
+pymystem3
+spacy
+
+# NLP evaluation metrics
+evaluate
+rouge_score
+
+# Machine Learning - PyTorch and related
+torch
+torchvision
+torchaudio
+
+# Hugging Face ecosystem
+transformers
+datasets
+
+# API clients for LLMs
+yandex-cloud-ml-sdk
+gigachat
+langchain-gigachat
+langchain-core
+groq
+
+# Utilities
+scikit-learn
+
+ipykernel
+ipywidgets
+
+# FastAPI and web framework dependencies
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+pydantic-settings==2.6.1
+python-multipart==0.0.12
+
+# HTTP client for testing
+requests
+
+# Telegram Bot
+python-telegram-bot==21.0.1
+
+# HTTP Client
+aiohttp==3.9.5
+
+# Configuration
+pydantic==2.9.2
+pydantic-settings==2.6.1
+
+# Environment variables
+python-dotenv==1.0.0
+
+
+# Note: After installing requirements, run:
+# python -m spacy download ru_core_news_sm
